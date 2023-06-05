@@ -7,5 +7,5 @@ We have 4 classes so far: Iphone, Browser, Contact, MusicPlayer.
 ![image](https://github.com/Ravelos/IphoneClassDiagramUml/assets/86490406/270c55d6-69d0-477f-84d0-cf249b4a3329)
 
 ## UML Diagram:
-![image](https://github.com/Ravelos/IphoneClassDiagramUml/assets/86490406/aa03dbcf-49fe-4fe6-b2fb-f95a5a9bf433)
+In progress...
 
